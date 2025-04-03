@@ -25,6 +25,8 @@ Welcome to the Dashboard UI Design repository! This project is a responsive Mode
 -   **✅ Optimized Performance:** Fast loading with efficient state management.
 
 ## <a name="preview">📸 Preview</a>
+![Dashboard Preview](src/assets/Preview.png)  
+<br>
 
 
 ## <a name="getting-started">🚀 Getting Started</a>
