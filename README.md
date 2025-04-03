@@ -38,7 +38,7 @@ To get started follow these steps:
 Using CLI
 
 ```bash
-git clone git clone git clone https://github.com/smRid/Modern-Dashboard.git
+git clone https://github.com/smRid/Modern-Dashboard.git
 ```
 
 **\*\*_Ensure you have installed [Git](https://git-scm.com) on your machine._**
