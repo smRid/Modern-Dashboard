@@ -1,9 +1,9 @@
-# Modern-Dashboard
+# MOrbitDash
 
 
 ## <a name="introduction">💬 Introduction</a>
 
-Welcome to the Dashboard UI Design repository! This project is a responsive Modern Dashboard UI built with React.js, designed for data-driven applications. This project features an intuitive user interface, real-time updates, and customizable widgets for seamless analytics and data visualization.
+Welcome to the OrbitDash Dashboard UI Design repository! This project is a responsive Modern Dashboard UI built with React.js, designed for data-driven applications. This project features an intuitive user interface, real-time updates, and customizable widgets for seamless analytics and data visualization.
 
 ## 🎯 Live Demo  
 🔗 **[Check out the live demo here](https://modern-dashboard-seven.vercel.app/)**  
